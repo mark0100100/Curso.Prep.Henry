@@ -1,0 +1,24 @@
+/*body{
+    background-color: burlywood;
+}*/
+
+h1{
+    color: rgba(0, 153, 255, 0.616);
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px #252525 solid;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}

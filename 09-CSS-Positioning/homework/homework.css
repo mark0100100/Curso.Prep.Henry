@@ -4,35 +4,54 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 */
 
 /* Ejercicio 1: Centrar el texto en un span */
-
 /* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {
+
+#ejercicioUno{
+    text-align: center;
+    display: block;
+}
+
+/* Ejercicio 2: Posicionar el header */
+/* Acá va tu código */
+
+#ejercicioDos{
+    display: none;
+}
+
+/* Ejercicio 3: */
+/* Acá va tu código */
+
+#ejercicioTres{
+    position: relative; /*just image*/
+    top: 100px;
+    left: 200px;
+}
+
+/* Ejercicio 4: */
+/* Acá va tu código */
+
+#ejercicioCuatro{
+    position: fixed;
+    top: 0px;
+    left: 0px;
 
 }
 
-
-/* Ejercicio 2: Posicionar el header */
-
+/* Ejercicio 5 y 6*/
 /* Acá va tu código */
 
+#ejercicioCinco{                    /*logo*/
+    display: flex;
+    justify-content: space-evenly;  /*eje X*/
+    align-items: center;            /*eje Y*/
+    flex-direction: row-reverse;    
+}
 
-
-/* Ejercicio 3: */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 4: */
-
-/* Acá va tu código */
-
-
-
-/* Ejercicio 5: */
-
-/* Acá va tu código */
+/* Ejercicio 7. */
+#ejercicioSiete{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
-/* Ejercicio 6. */
